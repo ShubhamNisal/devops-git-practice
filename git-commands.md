@@ -37,6 +37,8 @@ Saves staged changes into the repository.
 Example:
 git commit -m "Add git commands documentation"
 
+Add & commmit:
+git commit -a -m "Added modified files to the repo"
 
 ## Viewing Changes
 
