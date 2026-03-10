@@ -59,3 +59,18 @@ Shows commit history in short format.
 
 Example:
 git log --oneline
+
+### git diff
+Shows differences between working directory and staging area.
+
+Example:
+git diff
+
+
+### git add .
+Stages all changed files.
+
+Example:
+git add .
+
+
